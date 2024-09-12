@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "imagen": "public/images/corolla.png",
+        "modelo": "Toyota Corolla",
+        "diaria": "R$93,00",
+        "total": "R$93,00",
+        "canbio": "Automático",
+        "mala": "460 litros",
+        "tamanho": "Sedan Médio"
+    },
+    {
+        "id": 2,
+        "imagen": "/public/images/onix.png",
+        "modelo": "GM Onix",
+        "diaria": "R$77,00",
+        "total": "R$77,00",
+        "canbio": "Manual",
+        "mala": "320 litros",
+        "tamanho": "Hatch Médio"
+    },
+    {
+        "id": 3,
+        "imagen": "/public/images/mobi.png",
+        "modelo": "Fiat Mobi",
+        "diaria": "R$56,00",
+        "total": "R$56,00",
+        "canbio": "Manual",
+        "mala": "120 litros",
+        "tamanho": "Hatch Conpacto"
+    },
+    {
+        "id": 4,
+        "imagen": "/public/images/nivus.png",
+        "modelo": "VW Nivus",
+        "diaria": "R$122,00",
+        "total": "R$122,00",
+        "canbio": "Automático",
+        "mala": "460 litros",
+        "tamanho": "SUV"
+    }
+    
+]
